@@ -1,5 +1,5 @@
 <template>
-  <div>Hello, dashboard.</div>
+  <div>teste testeeeee, dashboard.</div>
 </template>
 
 <script setup></script>
